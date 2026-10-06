@@ -1,0 +1,45 @@
+{
+  "game_type": "6_55",
+  "game_name": "Power 6/55",
+  "model": "RandomForestClassifier (multi-output)",
+  "model_parameters": {
+    "n_estimators": 16,
+    "max_depth": 8,
+    "min_samples_leaf": 3,
+    "max_features": "sqrt",
+    "random_state": 42,
+    "n_jobs": 1
+  },
+  "initial_training_draws": 200,
+  "first_evaluated_position": 201,
+  "historical_draws": 1401,
+  "evaluation_draws": 1201,
+  "hit_count_distribution": {
+    "0/6": 568,
+    "1/6": 476,
+    "2/6": 140,
+    "3/6": 17,
+    "4/6": 0,
+    "5/6": 0,
+    "6/6": 0
+  },
+  "hit_count_rates": {
+    "0/6": 0.47293921731890093,
+    "1/6": 0.39633638634471274,
+    "2/6": 0.11656952539550375,
+    "3/6": 0.014154870940882597,
+    "4/6": 0.0,
+    "5/6": 0.0,
+    "6/6": 0.0
+  },
+  "average_hits": 0.671940049958368,
+  "random_baseline_expected_hits": 0.6545454545454545,
+  "latest_training_draw": {
+    "draw_number": "01402",
+    "draw_datetime": "2026-09-24 00:00:00"
+  },
+  "warnings": [
+    "Lottery draws are random; these experimental scores do not guarantee future results.",
+    "Predictions use main numbers only; special numbers are excluded."
+  ]
+}

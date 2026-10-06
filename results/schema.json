@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["game_type", "game_name_vi", "analysis_time", "historical_draws", "date_range", "statistics", "machine_learning", "ensemble", "predictions", "backtest", "warnings"],
+  "properties": {
+    "game_type": {"type": "string", "enum": ["5_35", "6_45", "6_55"]},
+    "game_name_vi": {"type": "string"},
+    "analysis_time": {"type": "string", "format": "date-time"},
+    "historical_draws": {"type": "integer", "minimum": 0},
+    "date_range": {
+      "type": "object",
+      "required": ["first", "last"],
+      "properties": {
+        "first": {"type": ["string", "null"]},
+        "last": {"type": ["string", "null"]}
+      }
+    },
+    "latest_draw_number": {"type": ["string", "null"]},
+    "statistics": {"type": "object"},
+    "machine_learning": {"type": "object"},
+    "ensemble": {"type": "object"},
+    "entropy": {"type": "object"},
+    "spatial_pattern": {"type": "object"},
+    "genetic_algorithm": {"type": "object"},
+    "covering_design": {"type": "object"},
+    "wheel_system": {"type": "object"},
+    "kelly": {"type": "object"},
+    "predictions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["rank", "numbers", "score", "statistical_score", "ml_score", "pair_score", "balance_score", "human_choice_penalty"],
+        "properties": {
+          "rank": {"type": "integer"},
+          "numbers": {"type": "array", "items": {"type": "integer"}},
+          "score": {"type": "number"},
+          "statistical_score": {"type": "number"},
+          "ml_score": {"type": "number"},
+          "pair_score": {"type": "number"},
+          "balance_score": {"type": "number"},
+          "human_choice_penalty": {"type": "number"}
+        }
+      }
+    },
+    "backtest": {"type": "object"},
+    "warnings": {"type": "array", "items": {"type": "string"}}
+  }
+}

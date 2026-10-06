@@ -1,0 +1,43 @@
+{
+  "game_type": "5_35",
+  "game_name": "Lotto 5/35",
+  "model": "RandomForestClassifier (multi-output)",
+  "model_parameters": {
+    "n_estimators": 16,
+    "max_depth": 8,
+    "min_samples_leaf": 3,
+    "max_features": "sqrt",
+    "random_state": 42,
+    "n_jobs": 1
+  },
+  "initial_training_draws": 200,
+  "first_evaluated_position": 201,
+  "historical_draws": 796,
+  "evaluation_draws": 596,
+  "hit_count_distribution": {
+    "0/5": 250,
+    "1/5": 250,
+    "2/5": 91,
+    "3/5": 5,
+    "4/5": 0,
+    "5/5": 0
+  },
+  "hit_count_rates": {
+    "0/5": 0.41946308724832215,
+    "1/5": 0.41946308724832215,
+    "2/5": 0.15268456375838926,
+    "3/5": 0.008389261744966443,
+    "4/5": 0.0,
+    "5/5": 0.0
+  },
+  "average_hits": 0.75,
+  "random_baseline_expected_hits": 0.7142857142857143,
+  "latest_training_draw": {
+    "draw_number": "00905",
+    "draw_datetime": "2026-09-24 13:00:00"
+  },
+  "warnings": [
+    "Lottery draws are random; these experimental scores do not guarantee future results.",
+    "Predictions use main numbers only; special numbers are excluded."
+  ]
+}

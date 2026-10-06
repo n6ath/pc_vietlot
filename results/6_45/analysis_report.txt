@@ -1,0 +1,123 @@
+==================================================
+VIETLOT ANALYZER
+==================================================
+
+Game: Mega 6/45
+Số kỳ lịch sử: 1369
+Kỳ gần nhất: 01566
+Thời gian phân tích: 2026-09-24 22:51:19
+
+==================================================
+1. PHÂN TÍCH TẦN SUẤT
+==================================================
+
+Số nóng: [10, 22, 7, 19, 24, 44, 28, 37, 20, 4]
+Số lạnh: [17, 38, 32, 21, 3, 12, 40, 2, 15, 39]
+Tần suất: {'1': 179, '2': 171, '3': 168, '4': 192, '5': 177, '6': 183, '7': 200, '8': 177, '9': 174, '10': 201, '11': 185, '12': 168, '13': 183, '14': 176, '15': 171, '16': 189, '17': 161, '18': 182, '19': 199, '20': 194, '21': 167, '22': 201, '23': 183, '24': 199, '25': 178, '26': 184, '27': 187, '28': 196, '29': 186, '30': 191, '31': 189, '32': 163, '33': 179, '34': 184, '35': 186, '36': 178, '37': 196, '38': 162, '39': 171, '40': 168, '41': 190, '42': 178, '43': 182, '44': 198, '45': 188}
+
+==================================================
+2. PHÂN TÍCH KHOẢNG CÁCH
+==================================================
+
+Số đang có khoảng cách lớn: {'1': {'current': 3, 'average': 7.6573, 'minimum': 1, 'maximum': 61, 'appearances': 179, 'normalized': 0.002191}, '2': {'current': 0, 'average': 7.9353, 'minimum': 1, 'maximum': 48, 'appearances': 171, 'normalized': 0.0}, '3': {'current': 3, 'average': 8.1437, 'minimum': 1, 'maximum': 71, 'appearances': 168, 'normalized': 0.002191}, '4': {'current': 4, 'average': 7.1361, 'minimum': 1, 'maximum': 41, 'appearances': 192, 'normalized': 0.002922}, '5': {'current': 34, 'average': 7.5682, 'minimum': 1, 'maximum': 35, 'appearances': 177, 'normalized': 0.024836}, '6': {'current': 0, 'average': 7.4505, 'minimum': 1, 'maximum': 37, 'appearances': 183, 'normalized': 0.0}, '7': {'current': 2, 'average': 6.8442, 'minimum': 1, 'maximum': 46, 'appearances': 200, 'normalized': 0.001461}, '8': {'current': 20, 'average': 7.5625, 'minimum': 1, 'maximum': 38, 'appearances': 177, 'normalized': 0.014609}, '9': {'current': 7, 'average': 7.815, 'minimum': 1, 'maximum': 52, 'appearances': 174, 'normalized': 0.005113}, '10': {'current': 1, 'average': 6.83, 'minimum': 1, 'maximum': 47, 'appearances': 201, 'normalized': 0.00073}, '11': {'current': 3, 'average': 7.3641, 'minimum': 1, 'maximum': 52, 'appearances': 185, 'normalized': 0.002191}, '12': {'current': 0, 'average': 8.1916, 'minimum': 1, 'maximum': 43, 'appearances': 168, 'normalized': 0.0}, '13': {'current': 11, 'average': 7.4505, 'minimum': 1, 'maximum': 30, 'appearances': 183, 'normalized': 0.008035}, '14': {'current': 5, 'average': 7.7257, 'minimum': 1, 'maximum': 48, 'appearances': 176, 'normalized': 0.003652}, '15': {'current': 0, 'average': 7.9941, 'minimum': 1, 'maximum': 35, 'appearances': 171, 'normalized': 0.0}, '16': {'current': 1, 'average': 7.1489, 'minimum': 1, 'maximum': 38, 'appearances': 189, 'normalized': 0.00073}, '17': {'current': 6, 'average': 8.5125, 'minimum': 1, 'maximum': 42, 'appearances': 161, 'normalized': 0.004383}, '18': {'current': 3, 'average': 7.5083, 'minimum': 1, 'maximum': 36, 'appearances': 182, 'normalized': 0.002191}, '19': {'current': 16, 'average': 6.7929, 'minimum': 1, 'maximum': 36, 'appearances': 199, 'normalized': 0.011687}, '20': {'current': 5, 'average': 7.0415, 'minimum': 1, 'maximum': 35, 'appearances': 194, 'normalized': 0.003652}, '21': {'current': 5, 'average': 8.2048, 'minimum': 1, 'maximum': 38, 'appearances': 167, 'normalized': 0.003652}, '22': {'current': 7, 'average': 6.8, 'minimum': 1, 'maximum': 34, 'appearances': 201, 'normalized': 0.005113}, '23': {'current': 3, 'average': 7.5, 'minimum': 1, 'maximum': 34, 'appearances': 183, 'normalized': 0.002191}, '24': {'current': 23, 'average': 6.7626, 'minimum': 1, 'maximum': 31, 'appearances': 199, 'normalized': 0.016801}, '25': {'current': 0, 'average': 7.7288, 'minimum': 1, 'maximum': 44, 'appearances': 178, 'normalized': 0.0}, '26': {'current': 0, 'average': 7.4317, 'minimum': 1, 'maximum': 39, 'appearances': 184, 'normalized': 0.0}, '27': {'current': 1, 'average': 7.3011, 'minimum': 1, 'maximum': 40, 'appearances': 187, 'normalized': 0.00073}, '28': {'current': 21, 'average': 6.8974, 'minimum': 1, 'maximum': 36, 'appearances': 196, 'normalized': 0.01534}, '29': {'current': 8, 'average': 7.3297, 'minimum': 1, 'maximum': 34, 'appearances': 186, 'normalized': 0.005844}, '30': {'current': 20, 'average': 7.0368, 'minimum': 1, 'maximum': 65, 'appearances': 191, 'normalized': 0.014609}, '31': {'current': 4, 'average': 7.2447, 'minimum': 1, 'maximum': 31, 'appearances': 189, 'normalized': 0.002922}, '32': {'current': 13, 'average': 8.284, 'minimum': 1, 'maximum': 34, 'appearances': 163, 'normalized': 0.009496}, '33': {'current': 1, 'average': 7.6292, 'minimum': 1, 'maximum': 37, 'appearances': 179, 'normalized': 0.00073}, '34': {'current': 4, 'average': 7.4536, 'minimum': 1, 'maximum': 35, 'appearances': 184, 'normalized': 0.002922}, '35': {'current': 9, 'average': 7.3081, 'minimum': 1, 'maximum': 45, 'appearances': 186, 'normalized': 0.006574}, '36': {'current': 6, 'average': 7.6215, 'minimum': 1, 'maximum': 34, 'appearances': 178, 'normalized': 0.004383}, '37': {'current': 10, 'average': 6.9231, 'minimum': 1, 'maximum': 28, 'appearances': 196, 'normalized': 0.007305}, '38': {'current': 1, 'average': 8.4907, 'minimum': 1, 'maximum': 71, 'appearances': 162, 'normalized': 0.00073}, '39': {'current': 11, 'average': 7.9647, 'minimum': 1, 'maximum': 39, 'appearances': 171, 'normalized': 0.008035}, '40': {'current': 7, 'average': 8.1138, 'minimum': 1, 'maximum': 47, 'appearances': 168, 'normalized': 0.005113}, '41': {'current': 2, 'average': 7.2011, 'minimum': 1, 'maximum': 41, 'appearances': 190, 'normalized': 0.001461}, '42': {'current': 32, 'average': 7.5311, 'minimum': 1, 'maximum': 47, 'appearances': 178, 'normalized': 0.023375}, '43': {'current': 2, 'average': 7.4972, 'minimum': 1, 'maximum': 46, 'appearances': 182, 'normalized': 0.001461}, '44': {'current': 9, 'average': 6.8883, 'minimum': 1, 'maximum': 38, 'appearances': 198, 'normalized': 0.006574}, '45': {'current': 8, 'average': 7.262, 'minimum': 1, 'maximum': 40, 'appearances': 188, 'normalized': 0.005844}}
+
+==================================================
+3. PHÂN TÍCH CẶP SỐ
+==================================================
+
+Các cặp xuất hiện nhiều: {'10-22': 34, '6-44': 34, '19-30': 33, '24-37': 33, '1-13': 33, '18-29': 33, '6-39': 33, '4-25': 32, '20-22': 32, '13-20': 32, '25-35': 32, '25-39': 31, '22-44': 31, '29-44': 31, '18-24': 31, '19-24': 31, '26-37': 31, '4-28': 31, '7-20': 30, '26-42': 30, '30-45': 30, '4-32': 30, '30-38': 30, '8-10': 30, '8-31': 30, '1-7': 30, '16-34': 30, '7-44': 29, '22-26': 29, '9-27': 29, '31-34': 29, '4-41': 29, '14-19': 29, '30-42': 29, '18-22': 29, '10-27': 29, '10-11': 29, '29-37': 29, '19-36': 29, '18-34': 29, '11-28': 29, '4-37': 29, '23-25': 28, '7-29': 28, '4-35': 28, '18-45': 28, '19-31': 28, '14-24': 28, '19-38': 28, '23-37': 28}
+
+==================================================
+4. PHÂN TÍCH CẤU TRÚC
+==================================================
+
+Tỷ lệ chẵn/lẻ: {'3 odd/3 even': 475, '2 odd/4 even': 317, '4 odd/2 even': 318, '1 odd/5 even': 99, '6 odd/0 even': 19, '5 odd/1 even': 127, '0 odd/6 even': 14}
+Tỷ lệ thấp/cao: {'4 high/2 low': 339, '1 high/5 low': 87, '2 high/4 low': 324, '5 high/1 low': 122, '3 high/3 low': 471, '6 high/0 low': 17, '0 high/6 low': 9}
+Phân bố tổng: {'min': 47, 'max': 234, 'mean': 138.31336742147553}
+Phân bố khoảng: {'min': 6, 'max': 44, 'mean': 33.00657414170928}
+
+==================================================
+5. RANDOM FOREST
+==================================================
+
+Điểm ML của từng số: {'scores': {'1': 0.754346, '2': 0.360893, '3': 0.427208, '4': 0.45382, '5': 0.991667, '6': 0.667697, '7': 0.417608, '8': 0.498613, '9': 0.017014, '10': 0.557748, '11': 0.519478, '12': 0.080754, '13': 0.641495, '14': 0.668262, '15': 0.0, '16': 0.706612, '17': 0.005556, '18': 0.560229, '19': 0.648012, '20': 0.395808, '21': 0.258333, '22': 0.057014, '23': 0.0, '24': 0.74586, '25': 0.647642, '26': 0.10875, '27': 0.209338, '28': 0.0, '29': 0.043889, '30': 0.522942, '31': 0.76371, '32': 0.520008, '33': 0.598164, '34': 0.02157, '35': 0.531412, '36': 0.661161, '37': 0.00614, '38': 0.0, '39': 0.48748, '40': 0.165369, '41': 0.011061, '42': 0.0, '43': 0.782231, '44': 0.491401, '45': 0.610729}, 'validation': {'method': 'chronological_walk_forward', 'future_leakage': False}, 'metadata': {'status': 'trained', 'min_history': 60}, 'warnings': ['Điểm RF là điểm xếp hạng thử nghiệm, không phải xác suất đảm bảo.']}
+
+==================================================
+6. ENSEMBLE
+==================================================
+
+Các số có điểm tổng hợp cao: {'1': 0.87972, '2': 0.745582, '3': 0.758594, '4': 0.816522, '5': 0.940397, '6': 0.862697, '7': 0.822784, '8': 0.795344, '9': 0.647255, '10': 0.86712, '11': 0.821797, '12': 0.655271, '13': 0.852587, '14': 0.847217, '15': 0.637314, '16': 0.886705, '17': 0.616858, '18': 0.827754, '19': 0.886952, '20': 0.803093, '21': 0.705433, '22': 0.715673, '23': 0.661774, '24': 0.914875, '25': 0.846233, '26': 0.697103, '27': 0.733343, '28': 0.685257, '29': 0.680187, '30': 0.831897, '31': 0.903221, '32': 0.773941, '33': 0.833274, '34': 0.67013, '35': 0.826239, '36': 0.849061, '37': 0.689348, '38': 0.618303, '39': 0.781308, '40': 0.679224, '41': 0.679924, '42': 0.645395, '43': 0.894559, '44': 0.839311, '45': 0.854418}
+
+==================================================
+7. BỘ SỐ ỨNG VIÊN
+==================================================
+
+Hạng   Bộ số                 Điểm
+--------------------------------------------------
+1      05 16 19 24 31 43     0.8650
+2      01 16 19 24 31 43     0.8461
+3      01 10 16 19 31 43     0.8311
+4      01 06 10 16 19 43     0.8216
+5      01 06 10 16 19 45     0.8083
+6      01 06 10 13 16 45     0.8040
+7      02 08 15 16 18 41     0.6403
+8      06 07 09 28 35 38     0.6023
+9      02 03 06 14 15 33     0.6827
+10     02 13 27 35 36 39     0.7032
+11     01 11 15 18 29 38     0.6148
+12     10 14 18 22 28 45     0.6824
+13     06 07 22 23 25 44     0.6681
+14     03 17 23 30 35 39     0.6210
+15     06 08 19 25 36 40     0.7384
+16     03 05 13 15 24 37     0.6998
+17     06 07 15 18 19 25     0.7168
+18     11 23 24 30 41 43     0.6896
+19     05 14 18 39 42 43     0.7504
+20     11 16 30 35 41 44     0.7092
+
+==================================================
+8. BACKTEST
+==================================================
+
+Baseline ngẫu nhiên: {'average_hits': 0.8}
+Mô hình thống kê: {'average_hits': None, 'note': 'Cần candidate policy cố định để tính.'}
+Random Forest: {'average_hits': None, 'note': 'Metrics được để null khi chưa có walk-forward predictions.'}
+Ensemble: {'average_hits': None, 'note': 'Metrics được để null khi chưa có walk-forward predictions.'}
+
+==================================================
+LƯU Ý
+==================================================
+
+Đây là các bộ số được xếp hạng dựa trên dữ liệu lịch sử,
+thống kê và mô hình thử nghiệm.
+Không coi điểm số mô hình là đảm bảo kết quả xổ số.
+
+==================================================
+9. ENTROPY
+==================================================
+
+Điểm entropy: 0.999521
+Xu hướng entropy: -0.03604
+Độ ổn định entropy: 0.969705
+
+==================================================
+10. PHÂN TÍCH LƯỚI
+==================================================
+
+Điểm không gian: 0.90711
+Điểm cân bằng lưới: 0.638057
+Mật độ cụm: 0.041831
+
+==================================================
+11. TỐI ƯU BỘ VÉ
+==================================================
+
+Genetic Algorithm: [{'numbers': [10, 18, 22, 24, 29, 44], 'fitness': 0.808958}, {'numbers': [10, 18, 22, 29, 44, 45], 'fitness': 0.798915}, {'numbers': [18, 20, 22, 29, 44, 45], 'fitness': 0.789402}, {'numbers': [1, 10, 18, 22, 44, 45], 'fitness': 0.775287}, {'numbers': [6, 10, 18, 29, 44, 45], 'fitness': 0.77134}, {'numbers': [1, 10, 18, 29, 44, 45], 'fitness': 0.748141}, {'numbers': [10, 22, 29, 33, 44, 45], 'fitness': 0.733225}, {'numbers': [1, 18, 21, 29, 44, 45], 'fitness': 0.726867}, {'numbers': [10, 18, 21, 29, 44, 45], 'fitness': 0.726616}]
+Số vé wheel: 924
+Độ bao phủ: 1.0
+
+==================================================
+12. QUẢN LÝ NGÂN SÁCH
+==================================================
+
+Kelly: Cần xác suất và lợi nhuận kỳ vọng do người dùng cung cấp; không tự suy đoán từ lịch sử.
